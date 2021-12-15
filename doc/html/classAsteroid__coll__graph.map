@@ -1,0 +1,5 @@
+<map id="Asteroid" name="Asteroid">
+<area shape="rect" id="node2" href="$classObject.html" title="Object" alt="" coords="11,228,71,255"/>
+<area shape="rect" id="node3" href="$classHitbox.html" title="Hitboxes for different objects. " alt="" coords="11,139,71,165"/>
+<area shape="rect" id="node4" href="$classcrd.html" title="Coordinates (x,y) " alt="" coords="21,5,61,32"/>
+</map>

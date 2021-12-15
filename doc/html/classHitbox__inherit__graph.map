@@ -1,0 +1,6 @@
+<map id="Hitbox" name="Hitbox">
+<area shape="rect" id="node2" href="$classAsteroid__H.html" title="Asteroid_H" alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$classBonus__H.html" title="Bonus_H" alt="" coords="116,80,192,107"/>
+<area shape="rect" id="node4" href="$classBullet__H.html" title="Bullet_H" alt="" coords="217,80,289,107"/>
+<area shape="rect" id="node5" href="$classShip__H.html" title="Ship_H" alt="" coords="313,80,379,107"/>
+</map>

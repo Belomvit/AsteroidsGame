@@ -1,0 +1,4 @@
+<map id="Bonus_H" name="Bonus_H">
+<area shape="rect" id="node2" href="$classHitbox.html" title="Hitboxes for different objects. " alt="" coords="13,139,73,165"/>
+<area shape="rect" id="node3" href="$classcrd.html" title="Coordinates (x,y) " alt="" coords="23,5,63,32"/>
+</map>

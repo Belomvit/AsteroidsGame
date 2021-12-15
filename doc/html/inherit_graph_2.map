@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classHitbox.html" title="Hitboxes for different objects. " alt="" coords="5,81,65,108"/>
+<area shape="rect" id="node2" href="$classAsteroid__H.html" title="Asteroid_H" alt="" coords="113,5,200,32"/>
+<area shape="rect" id="node3" href="$classBonus__H.html" title="Bonus_H" alt="" coords="119,56,195,83"/>
+<area shape="rect" id="node4" href="$classBullet__H.html" title="Bullet_H" alt="" coords="121,107,193,133"/>
+<area shape="rect" id="node5" href="$classShip__H.html" title="Ship_H" alt="" coords="124,157,189,184"/>
+</map>

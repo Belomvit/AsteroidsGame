@@ -1,0 +1,4 @@
+<map id="Bullet_H" name="Bullet_H">
+<area shape="rect" id="node2" href="$classHitbox.html" title="Hitboxes for different objects. " alt="" coords="70,139,130,165"/>
+<area shape="rect" id="node3" href="$classcrd.html" title="Coordinates (x,y) " alt="" coords="24,5,64,32"/>
+</map>

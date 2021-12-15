@@ -1,0 +1,7 @@
+<map id="Object" name="Object">
+<area shape="rect" id="node2" href="$classAS__Bonus.html" title="AS_Bonus" alt="" coords="5,80,89,107"/>
+<area shape="rect" id="node3" href="$classAsteroid.html" title="Asteroid" alt="" coords="113,80,184,107"/>
+<area shape="rect" id="node4" href="$classBullet.html" title="Bullet" alt="" coords="208,80,263,107"/>
+<area shape="rect" id="node5" href="$classShip.html" title="Ship" alt="" coords="287,80,335,107"/>
+<area shape="rect" id="node6" href="$classSpeed__Bonus.html" title="Speed_Bonus" alt="" coords="360,80,463,107"/>
+</map>
